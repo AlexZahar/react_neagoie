@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_neagoie/static/css/main.1da0c1b8.chunk.css",
-    "main.js": "/react_neagoie/static/js/main.6b82dcb1.chunk.js",
-    "main.js.map": "/react_neagoie/static/js/main.6b82dcb1.chunk.js.map",
+    "main.js": "/react_neagoie/static/js/main.b0da70ba.chunk.js",
+    "main.js.map": "/react_neagoie/static/js/main.b0da70ba.chunk.js.map",
     "runtime-main.js": "/react_neagoie/static/js/runtime-main.e8271870.js",
     "runtime-main.js.map": "/react_neagoie/static/js/runtime-main.e8271870.js.map",
     "static/js/2.743303ce.chunk.js": "/react_neagoie/static/js/2.743303ce.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e8271870.js",
     "static/js/2.743303ce.chunk.js",
     "static/css/main.1da0c1b8.chunk.css",
-    "static/js/main.6b82dcb1.chunk.js"
+    "static/js/main.b0da70ba.chunk.js"
   ]
 }
